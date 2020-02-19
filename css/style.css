@@ -29,10 +29,12 @@ body {
   grid-row: 1 / -1; }
 
 .header {
-  background-color: #54483A; }
+  background-color: #54483A;
+  grid-column: full-start / col-end 6; }
 
 .realtors {
-  background-color: #101d2c; }
+  background-color: #101d2c;
+  grid-column: col-start 7 / full-end; }
 
 .features {
   background-color: #aaa;
