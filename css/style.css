@@ -45,7 +45,8 @@ body {
   background-color: #101d2c; }
 
 .gallery {
-  background-color: #54483A; }
+  background-color: #54483A;
+  grid-column: full-start / full-end; }
 
 .footer {
   background-color: #101d2c; }
