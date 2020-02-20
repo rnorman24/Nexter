@@ -8,10 +8,15 @@
     background-color: $color-grey-light-1;
     grid-column: col-start 5 / full-end;
 
+    /* // With flex-box
     padding: 6rem 12rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: flex-start;
+    */
+
+    
   }
 
   &__text {
