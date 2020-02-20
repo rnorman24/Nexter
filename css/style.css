@@ -24,6 +24,14 @@ body {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 400; }
 
+.heading-2 {
+  font-size: 4rem;
+  font-style: italic; }
+  .heading-2--light {
+    color: #f9f7f6; }
+  .heading-2--dark {
+    color: #54483A; }
+
 .heading-4 {
   font-size: 1.9rem; }
   .heading-4--light {
