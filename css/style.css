@@ -120,7 +120,8 @@ body {
     align-items: flex-start;
     */
   display: grid;
-  align-content: center; }
+  align-content: center;
+  justify-items: start; }
 
 .story__text {
   font-size: 1.5rem;
