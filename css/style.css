@@ -59,6 +59,18 @@ body {
   .btn:hover {
     background-color: #B28451; }
 
+.mb-sm {
+  margin-bottom: 2rem; }
+
+.mb-md {
+  margin-bottom: 3rem; }
+
+.mb-ls {
+  margin-bottom: 4rem; }
+
+.mb-hg {
+  margin-bottom: 8rem; }
+
 .sidebar {
   background-color: #c69963;
   grid-column: sidebar-start / sidebar-end;
