@@ -110,7 +110,8 @@ body {
   grid-column: full-start / col-end 4;
   display: grid;
   grid-template-rows: repeat(6, 1fr);
-  grid-template-columns: repeat(6, 1fr); }
+  grid-template-columns: repeat(6, 1fr);
+  align-items: center; }
 
 .story__img--1 {
   width: 100%;
