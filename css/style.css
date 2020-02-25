@@ -274,4 +274,6 @@ body {
     font-family: "Josefin Sans", sans-serif;
     text-transform: uppercase;
     text-align: center;
+    padding: 1.5rem;
+    display: block;
     background-color: rgba(255, 255, 255, 0.05); }
