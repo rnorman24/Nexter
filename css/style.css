@@ -112,6 +112,9 @@ body {
   grid-row-gap: 1.5rem; }
   .header__logo {
     height: 3rem; }
+  .header__btn {
+    align-self: start;
+    justify-self: start; }
   .header__seenon-logos img {
     height: 2.5rem; }
 
