@@ -5,6 +5,10 @@
   background-size: hidden;
   background-position: center;
 
+  display: grid;
+  grid-template-rows: 1fr min-content 6rem;
+  grid-row-gap: 1.5rem;
+
   &__logo {
     height: 3rem;
   }
