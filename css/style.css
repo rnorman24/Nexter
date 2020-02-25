@@ -193,7 +193,8 @@ body {
     font-size: 1.5rem;
     margin-left: 2rem;
     display: flex;
-    align-items: center; }
+    align-items: center;
+    margin-right: 1rem; }
     .home__location svg, .home__rooms svg, .home__area svg, .home__price svg {
       fill: #c69963;
       height: 2rem;
