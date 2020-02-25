@@ -9,6 +9,7 @@
 
   display: grid;
   grid-template-rows: 1fr min-content 6rem 1fr;
+  grid-template-columns: min-content;
   grid-row-gap: 1.5rem;
 
   &__logo {
