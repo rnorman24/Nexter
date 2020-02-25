@@ -166,6 +166,8 @@ body {
     fill: #c69963;
     height: 2rem;
     width: 2rem; }
+  .home__btn {
+    grid-column: 1 / -1; }
 
 .gallery {
   background-color: #54483A;
