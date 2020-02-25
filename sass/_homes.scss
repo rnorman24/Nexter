@@ -62,7 +62,9 @@
 
     font-size: 1.5rem;
     margin-left: 2rem;
+
     display: flex;
+    align-items: center;
 
     svg {
       fill: $color-primary;
