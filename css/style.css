@@ -147,7 +147,8 @@ body {
   padding: 3rem;
   display: grid;
   align-content: center;
-  justify-content: center; }
+  justify-content: center;
+  grid-row-gap: 2rem; }
   .realtors__list {
     display: grid;
     grid-template-columns: min-content max-content;
