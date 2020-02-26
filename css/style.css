@@ -141,6 +141,9 @@ body {
   @media only screen and (max-width: 50em) {
     .header {
       grid-column: 1 / -1; } }
+  @media only screen and (max-width: 37.5em) {
+    .header {
+      padding: 5rem; } }
   .header__logo {
     height: 3rem;
     justify-self: center; }
