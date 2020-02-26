@@ -25,6 +25,7 @@
 
   &__seenon-text {
     display: grid;
+    grid-template-columns: 1fr min-content 1fr;
 
     font-size: 1.6rem;
     color: $color-grey-light-2;
